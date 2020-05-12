@@ -15,4 +15,4 @@ Download Chromedriver:-
 Refer if you wish to use other browser or solve errors:-
 https://www.selenium.dev/documentation/en/webdriver/driver_requirements/
 
-Import BeautifulSoup,requests,Selenium before running the script
+Import BeautifulSoup,requests,Selenium modules before running the script
